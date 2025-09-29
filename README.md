@@ -208,7 +208,7 @@ tar -czf Reports/archive_$(date +%Y-%m).tar.gz Reports/saml_users_*.html Reports
 
 ## Author
 
-Chris Smolen - 3820601+smolz@users.noreply.github.com
+Chris Smolen - smolz@users.noreply.github.com
 
 ## License
 
