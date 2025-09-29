@@ -208,11 +208,25 @@ tar -czf Reports/archive_$(date +%Y-%m).tar.gz Reports/saml_users_*.html Reports
 
 ## Author
 
-Chris Smolen - csmolen@eplus.com
+Chris Smolen - 3820601+smolz@users.noreply.github.com
 
 ## License
 
-[Specify your license here]
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This means you are free to:
+- Use this software for any purpose
+- Change the software to suit your needs
+- Share the software with your friends and neighbors
+- Share the changes you make
+
+Under the following terms:
+- If you modify and distribute this software, you must make your source code available
+- If you run a modified version on a server and let others interact with it, you must share your modifications
+- You must include the license and copyright notice with the software
+- You must state significant changes made to the software
+
+See the [LICENSE](LICENSE) file for the full license text, or visit [https://www.gnu.org/licenses/agpl-3.0.en.html](https://www.gnu.org/licenses/agpl-3.0.en.html) for more details.
 
 ## Contributing
 
